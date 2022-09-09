@@ -1,6 +1,10 @@
 Game Functionalities:
 
 1. One full game- annouces winner and disables further moves.
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/93021938/189277042-1bde52cb-3568-4184-9c9b-c9ddab6f75e5.png">
+</p>
 ![Screen Shot 2022-09-08 at 10 14 53 PM](https://user-images.githubusercontent.com/93021938/189277042-1bde52cb-3568-4184-9c9b-c9ddab6f75e5.png)
 
 2. Time traveling back to move #4.
