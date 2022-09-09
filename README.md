@@ -1,6 +1,6 @@
 Game Functionalities:
 
-1. One full game- annouces winner and disables further moves.
+1. One full game- announces winner and disables further moves.
 <p align="center">
   <img width="300" height="200" src="https://user-images.githubusercontent.com/93021938/189277042-1bde52cb-3568-4184-9c9b-c9ddab6f75e5.png">
 </p>
